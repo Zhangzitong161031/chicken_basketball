@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c3deffe-5d44-43d3-ab5a-ea5a26b58901" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.laya/chrome/Default/Current Session" beforeDir="false" afterPath="$PROJECT_DIR$/.laya/chrome/Default/Current Session" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.laya/chrome/Default/Current Tabs" beforeDir="false" afterPath="$PROJECT_DIR$/.laya/chrome/Default/Current Tabs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.laya/chrome/Default/GPUCache/data_1" beforeDir="false" afterPath="$PROJECT_DIR$/.laya/chrome/Default/GPUCache/data_1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.laya/chrome/Default/History" beforeDir="false" afterPath="$PROJECT_DIR$/.laya/chrome/Default/History" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.laya/chrome/Default/History Provider Cache" beforeDir="false" afterPath="$PROJECT_DIR$/.laya/chrome/Default/History Provider Cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.laya/chrome/Default/Last Session" beforeDir="false" afterPath="$PROJECT_DIR$/.laya/chrome/Default/Last Session" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.laya/chrome/Default/Last Tabs" beforeDir="false" afterPath="$PROJECT_DIR$/.laya/chrome/Default/Last Tabs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.laya/chrome/Default/Local Storage/leveldb/LOG" beforeDir="false" afterPath="$PROJECT_DIR$/.laya/chrome/Default/Local Storage/leveldb/LOG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.laya/chrome/Default/Local Storage/leveldb/LOG.old" beforeDir="false" afterPath="$PROJECT_DIR$/.laya/chrome/Default/Local Storage/leveldb/LOG.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.laya/chrome/Default/Login Data" beforeDir="false" afterPath="$PROJECT_DIR$/.laya/chrome/Default/Login Data" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.laya/chrome/Default/Preferences" beforeDir="false" afterPath="$PROJECT_DIR$/.laya/chrome/Default/Preferences" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.laya/chrome/Default/Site Characteristics Database/LOG" beforeDir="false" afterPath="$PROJECT_DIR$/.laya/chrome/Default/Site Characteristics Database/LOG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.laya/chrome/Default/Site Characteristics Database/LOG.old" beforeDir="false" afterPath="$PROJECT_DIR$/.laya/chrome/Default/Site Characteristics Database/LOG.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.laya/chrome/Local State" beforeDir="false" afterPath="$PROJECT_DIR$/.laya/chrome/Local State" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.laya/chrome/ShaderCache/GPUCache/data_0" beforeDir="false" afterPath="$PROJECT_DIR$/.laya/chrome/ShaderCache/GPUCache/data_0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.laya/chrome/ShaderCache/GPUCache/data_1" beforeDir="false" afterPath="$PROJECT_DIR$/.laya/chrome/ShaderCache/GPUCache/data_1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.laya/chrome/chrome_shutdown_ms.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.laya/chrome/chrome_shutdown_ms.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/bin/code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/comp/bg_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/js/view/Blattaria.js" beforeDir="false" afterPath="$PROJECT_DIR$/bin/js/view/Blattaria.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/js/view/Game.js" beforeDir="false" afterPath="$PROJECT_DIR$/bin/js/view/Game.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/js/view/Lizard.js" beforeDir="false" afterPath="$PROJECT_DIR$/bin/js/view/Lizard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/res/atlas/.rec" beforeDir="false" afterPath="$PROJECT_DIR$/bin/res/atlas/.rec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/unpack.json" beforeDir="false" afterPath="$PROJECT_DIR$/bin/unpack.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laya/assets/comp/bg_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/release/wxgame/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/release/wxgame/code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/release/wxgame/comp/bg_01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/release/wxgame/comp/bg_01.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/release/wxgame/comp/bg_01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/release/wxgame/src/myOpenDataContext/comp/022.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/release/wxgame/src/myOpenDataContext/comp/023.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/release/wxgame/src/myOpenDataContext/comp/024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/release/wxgame/src/myOpenDataContext/comp/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/release/wxgame/src/myOpenDataContext/comp/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/release/wxgame/src/myOpenDataContext/comp/clip_head.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/release/wxgame/src/myOpenDataContext/comp/clip_num.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/release/wxgame/src/myOpenDataContext/comp/clip_rank.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/release/wxgame/src/myOpenDataContext/comp/homeBtn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/release/wxgame/src/myOpenDataContext/comp/img_bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/release/wxgame/src/myOpenDataContext/comp/img_bg2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/release/wxgame/src/myOpenDataContext/comp/img_bg4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/release/wxgame/src/myOpenDataContext/comp/img_itemBg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/release/wxgame/src/myOpenDataContext/comp/seflItemBg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/release/wxgame/src/myOpenDataContext/comp/vscroll$bar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/release/wxgame/src/myOpenDataContext/comp/vscroll$down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/release/wxgame/src/myOpenDataContext/comp/vscroll$up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/release/wxgame/src/myOpenDataContext/comp/vscroll.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/release/wxgame/unpack.json" beforeDir="false" afterPath="$PROJECT_DIR$/release/wxgame/unpack.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/Blattaria.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/Blattaria.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/Game.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/Game.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/view/Lizard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/Lizard.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="y" value="3" />
+    <option name="width" value="1386" />
+    <option name="height" value="738" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pythonroot" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c3deffe-5d44-43d3-ab5a-ea5a26b58901" name="默认更改列表" comment="" />
+      <created>1554883658388</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554883658388</updated>
+      <workItem from="1554883671657" duration="593000" />
+      <workItem from="1554964929924" duration="67000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="660000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.1738076" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="4" />
+      <window_info anchor="bottom" id="Python Console" order="5" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="SciView" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

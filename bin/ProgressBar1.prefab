@@ -1,0 +1,1 @@
+{"type":"ProgressBar","props":{"skin":"comp/progress_time.png","x":0,"y":0,"var":"timeBar","value":1,"preset":"laya/assets/ProgressBar1.prefab","presetID":1},"child":[],"isAniNode":true,"nodeParent":1,"label":"ProgressBar(timeBar)","isDirectory":false,"hasChild":false}
